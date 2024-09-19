@@ -1,0 +1,65 @@
+ul{
+    list-style: none;
+}
+.menu {
+    padding: 8px 0px 0px;
+    background-color: whitesmoke ;
+}
+.menu li {
+    display: inline; 
+    margin: 0 10px 0;
+}
+.menu a {
+    text-decoration: none;
+    color: aqua;
+    transition: 0.2s color;
+              }
+.menu a:hover{
+        color: red;
+    }  
+.t1{
+    margin-left: 437px;
+    margin-top: 40px;
+    color: red;
+}  
+.featured {
+    margin-left: 30px;
+} 
+.card1{
+    
+    float:left;
+}
+.card2{
+   
+    float: left;
+}
+
+.card3 {
+    
+    float: left;
+}
+td{
+    border-style: solid;
+    border-color: brown;
+    width: 20%;
+    
+   
+    
+}
+.t2{
+    margin-left: 437px;
+    margin-top: 40px;
+    color: yellow;
+}  
+.card4{
+    margin-left: 20px;
+}
+.card5{
+    margin-left: 131px;
+}
+.card6 {
+    margin-left: 142px;
+}
+.lsdh {
+    float: right;
+}
